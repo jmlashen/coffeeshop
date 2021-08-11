@@ -1,0 +1,14 @@
+main .list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.shop {
+    display: flex;
+    width: 30%;
+    border: 1px dotted black;
+    padding: 1%;
+    flex-direction: column;
+}
